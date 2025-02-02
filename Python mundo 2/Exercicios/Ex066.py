@@ -7,4 +7,4 @@ while True:
         break
     s += n
     c += 1
-print(f'a soma dos {c} numeros é igual a {s}')
+print(f'a soma dos {c} valores é igual a {s}')
